@@ -1,1 +1,2 @@
 # Tic-Tac-Toe
+This simple and classic Tic Tac Toe game is built using standard web technologies: HTML for the structure, CSS for styling, and JavaScript for the game logic and interactivity. Players take turns marking spaces in a 3x3 grid, trying to get three of their marks (X or O) in a row (horizontally, vertically, or diagonally) to win. The game also handles draws when all spaces are filled without a winner.
